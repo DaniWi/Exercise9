@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 adfasdfakljkljkl
 
 adfasdf
+=======
+kljkljkl
+>>>>>>> parent of 0d88d10... nochmals was dazu

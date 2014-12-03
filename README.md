@@ -21,4 +21,5 @@ Damit das alles gut funktionieren kann, gibt es ein paar **Regeln** für die Mita
 * Wenn Compilation fehlgeschlagen ist nichts mehr einchecken   
 * Beim Verlassen des Arbeitsplatzen (Ende des Tages) am Server wieder einchecken   
 
+jkladfjlaksdfj
 Wenn man alle Regeln so gut als möglich einhält, steht einer erfolgreichen Softwareentwicklung nichts mehr im Weg. Mit diesem Konzept der kontinuierlichen Integration der neuen Codeteile wird garantiert, dass Fehler so früh als möglich erkannt werden und sofort bereinigt werden können, um Kosten und Zeit zu sparen. Der *CI Server* führt alle Aufgaben automatisch aus, sodass sich der Entwickler nur mehr auf seine Hauptaufgabe, der Entwicklung neuer Module, widmen kann.
